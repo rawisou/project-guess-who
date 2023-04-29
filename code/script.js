@@ -183,7 +183,7 @@ const intro = () => {
   <div class="intro">
     <p class="welcome-text"> Welcome to Guess Who game: French philosophers edition!<p>
     <p class="description"> You have 5 chances to ask questions and filter out philosophers based on their eras, schools and main interests.
-     Click "play" to start the game and  bonne chance! </p>
+     Click "play" to start the game and  bonne chance! //Rawi :) </p>
 
     <button onclick="start()" class="outlined-button filled-button"> Play </button>
     </div>
